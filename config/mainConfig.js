@@ -27,7 +27,7 @@ module.exports = {
   audio_url: 'https://cdn.danitechno.com/audio/dj-joanna-breakbeat.mp3',
   public_mode: true,
   auto_read: true,
-  mongodb_uri: 'Your_MongoDb_URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://dinahani913H8p9heWbA3YvWKKj@databaseuserbot.ifjduu9.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://api.danitechno.com',
     key: 'sk-pok46779z79iv21pn' // Register here: https://daniapi.my.id/#sign-up
